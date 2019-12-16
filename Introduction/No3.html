@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script src="../Resource/VueJS/vue.min.js"></script>
+		<title></title>
+	</head>
+	<body>
+		<div id="app-3">
+			<p v-if="screen">现在你看到我了</p>
+		</div>
+		<script type="text/ecmascript">
+			var app3=new Vue({
+				el:'#app-3',
+				data:{
+					screen:true
+				}
+			})
+		</script>
+	</body>
+</html>
