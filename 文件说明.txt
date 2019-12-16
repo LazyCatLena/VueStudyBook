@@ -1,10 +1,10 @@
  - Bulid => 安装
-	 - Vue Devtools    Vue Devtools.txt
-	 - 直接<script>引入    vue引用.txt
+	 - Vue Devtools                      Vue Devtools.txt
+	 - 直接<script>引入                   vue引用.txt
 		 - CDN
-	 - NPM    
-	 - 命令行工具
-	 - 对不同构建版本的解释
+	 - NPM                               NPM.txt
+	 - 命令行工具                         命令行工具.txt
+	 - 对不同构建版本的解释                对不同构建版本的解释.txt
 		 - 术语
 		 - 运行时+编译器vs.只包含运行时
 		 - 开发环境vs.生产环境模式
