@@ -20,6 +20,8 @@
 你可以在 cdn.jsdelivr.net/npm/vue 浏览 NPM 包的源代码。
 
 Vue 也可以在 unpkg 和 cdnjs 上获取 (cdnjs 的版本更新可能略滞后)。
+unpkg:https://unpkg.com/vue@2.6.10/dist/vue.js
+cdnjs:https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js
 
 请确认了解不同构建版本并在你发布的站点中使用生产环境版本，
 把 vue.js 换成 vue.min.js。这是一个更小的构建，
